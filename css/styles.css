@@ -411,22 +411,22 @@ TABLE OF CONTENT
     #nav-transparent .nav-menu > li:hover > a,
     #nav-transparent .nav-menu > li.active > a,
     #nav-transparent .nav-menu > li.focus > a {
-        color: #d21e2b;
+        color: #f6c93c;
     }
 
     #nav-transparent .nav-menu > li:hover > a .submenu-indicator-chevron,
     #nav-transparent .nav-menu > .active > a .submenu-indicator-chevron,
     #nav-transparent .nav-menu > .focus > a .submenu-indicator-chevron {
-        border-color: transparent #d21e2b #d21e2b transparent;
+        border-color: transparent #f6c93c #f6c93c transparent;
     }
 
     #nav-transparent .nav-dropdown > li:hover > a .submenu-indicator-chevron,
     #nav-transparent .nav-dropdown > .focus > a .submenu-indicator-chevron {
-        border-color: transparent #d21e2b #d21e2b transparent;
+        border-color: transparent #f6c93c #f6c93c transparent;
     }
 
     #nav-transparent .nav-white-bg .nav-menu > li:hover > a {
-        color: #d21e2b;
+        color: #f6c93c;
     }
 }
 
@@ -438,7 +438,7 @@ TABLE OF CONTENT
 
 .nav-dropdown > li:hover > a .submenu-indicator-chevron,
 .nav-dropdown > .focus > a .submenu-indicator-chevron {
-    border-color: transparent #d21e2b #d21e2b transparent;
+    border-color: transparent #f6c93c #f6c93c transparent;
 }
 
 /*-----------------------------------------
