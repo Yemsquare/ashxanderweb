@@ -2377,7 +2377,7 @@ f) Overlays
 
 .feature-flex-square-content-button {
     display: inline-block;
-    color: #111;
+    color: white;
     font-size: 14px;
     font-weight: 500;
 }
@@ -2393,11 +2393,11 @@ f) Overlays
 }
 
 .feature-flex-square-content-button:hover {
-    color: #d21e2b;
+    color: #f9d100;
 }
 
 .feature-flex-square-content-button:hover:after {
-    color: #d21e2b;
+    color: #f9d100;
 }
 
 
