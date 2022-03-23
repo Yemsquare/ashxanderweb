@@ -24,10 +24,11 @@ TABLE OF CONTENT
 -------------------------------------------*/
 html, body {
   font-family: 'Fira Sans', sans-serif;
-  color: #d21e2b;        
+  color: #f6c93c;        
   height: 100%;
   margin: 0;
   padding: 0;
+ 
 }
 
 h1,
@@ -45,7 +46,8 @@ h1,
 h2,
 h3,
 h4 {
-  font-weight: 700;
+  font-weight: bolder;
+  
 }
 h5,
 h6 {
