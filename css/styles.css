@@ -1009,6 +1009,9 @@ d) Lists
     list-style-type: none;
     color: #222;
     font-size: 12px;
+    font-style: normal;
+    text-align: justify;
+    text-align-last: left;
     font-weight: 500;
     margin-top: 15px;
 }
