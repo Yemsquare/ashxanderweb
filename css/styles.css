@@ -1008,7 +1008,7 @@ d) Lists
 .primary-list li {
     list-style-type: none;
     color: #222;
-    font-size: 13px;
+    font-size: 12px;
     font-weight: 500;
     margin-top: 15px;
 }
@@ -2777,7 +2777,7 @@ f) Overlays
 
 .custom-bar {
     height: 100%;
-    background-color: #d21e2b;
+    background-color: #f6c93c;
     box-shadow: none;
 }
 
@@ -5376,7 +5376,7 @@ Style 5
 }
 
 .team-single-text span {
-    color: #d21e2b;
+    color: #f6c93c;
     font-size: 14px;
     font-weight: 500;
 }
