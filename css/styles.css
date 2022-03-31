@@ -1940,7 +1940,7 @@ f) Overlays
 }
 
 .serv-section-2:hover:before {
-    background: #d21e2b;
+    background: #f6c93c;
 }
 
 .serv-section-2-icon {
@@ -1953,7 +1953,7 @@ f) Overlays
 }
 
 .serv-section-2-icon i {
-    color: #d21e2b;
+    color: #f6c93c;
     font-size: 48px;
     line-height: 65px;
     transition: all 0.4s ease-in-out;
@@ -1994,7 +1994,7 @@ f) Overlays
 }
 
 .serv-section-2-act:before {
-    background: #d21e2b;
+    background: #f6c93c;
 }
 
 .serv-section-2-act:hover:before {
@@ -2006,7 +2006,7 @@ f) Overlays
 }
 
 .serv-section-2-act:hover .serv-section-2-icon-act i {
-    color: #d21e2b !important;
+    color: #f6c93c !important;
 }
 
 @media (max-width: 991px) {
@@ -2359,7 +2359,7 @@ f) Overlays
 }
 
 .feature-flex-square-content h4 {
-    color: #111;
+    color: #fff;
     font-size: 19px;
     font-weight: 500;
 }
