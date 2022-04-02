@@ -6125,7 +6125,7 @@ Top Video Section
 }
 
 .section-single-heading h4 {
-    color: #111;
+    color: #f6c93c;
     font-size: 20px;
     font-weight: 500;
 }
@@ -7064,7 +7064,7 @@ Top Video Section
 }
 
 .shop-tabs .tabs .tab-menu li {
-    background: #f7f7f7;
+    background: black;
     display: inline-block;
     width: 33.11%;
     text-align: center;
@@ -7941,7 +7941,7 @@ Grid Classic Style
 }
 
 .contact-form button:hover {
-    background: #d21e2b;
+    background: #f6c93c;
 }
 
 /*INFO*/
@@ -8135,7 +8135,7 @@ Styles 4
 }
 
 .default-tabs .tabs .tab-menu li a {
-    color: #111;
+    color: black;
     display: block;
     font-size: 15px;
     font-weight: 500;
@@ -8152,11 +8152,11 @@ Styles 4
 }
 
 .default-tabs .tabs .tab-menu li:hover a, .default-tabs .tabs .tabs li:hover i {
-    color: #d21e2b;
+    color: black;
 }
 
 .default-tabs .tab-menu .active-tab a, .default-tabs .active-tab a i {
-    color: #d21e2b !important;
+    color: #f6c93c !important;
 }
 
 
