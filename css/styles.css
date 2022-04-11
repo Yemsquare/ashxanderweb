@@ -319,7 +319,7 @@ TABLE OF CONTENT
     position: relative;
     font-size: 15px;
     font-weight: 500;
-    color: white;
+    color: black;
     line-height: 200%;
     margin-bottom: 10px;
 }
@@ -2176,7 +2176,7 @@ f) Overlays
 
 .feature-box h4 {
     color: #111;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 500;
     line-height: 170%;
     margin: 15px 0px;
@@ -4538,7 +4538,7 @@ Style 1 (Carousel)
 
 .testmonial-box span:before {
     content: '●';
-    color: #d21e2b;
+    color: #f6c93c;
     font-size: 15px;
     margin-right: 5px;
 }
