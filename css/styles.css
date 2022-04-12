@@ -4092,6 +4092,7 @@ Blog Post
 
 .blog-post-content p {
     color: #999;
+    text-align: justify;
     font-size: 15px;
     font-weight: 400;
     line-height: 180%;
