@@ -2,7 +2,7 @@ $(function(){
     function timer(settings){
         var config = {
             endDate: '2019-05-19 09:00',
-            timeZone: 'Europe/Dublin',
+            timeZone: 'Africa/Lagos',
             hours: $('#hours'),
             minutes: $('#minutes'),
             seconds: $('#seconds'),
